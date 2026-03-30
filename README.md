@@ -1,4 +1,4 @@
-🚀 WebCopilot v2.3 - Presentación para Grupos de Ciberseguridad
+🚀 WebCopilot v2.3 
 
 📋 ¿Qué es WebCopilot?
 
