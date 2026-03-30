@@ -88,13 +88,11 @@ webcopilot-20260330-221000-ejemplo.com/
 | Ventaja           | Descripción                                               |
 | ----------------- | --------------------------------------------------------- |
 | 🤖 IA Integrada   | Análisis automático con Ollama (local, sin APIs externas) |
-| ⚡ Paralelización  | Multi-threading configurable (default: 50)                |
+| ⚡ Paralelización  | Multi-threading configurable (default: 50)               |
 | 📬 Notificaciones | Telegram en tiempo real por cada fase completada          |
-| 🔧 Modular        | Cada función pu
-[30/3/26 22:11] HackCrack: ede ac
-[30/3/26 22:11] HackCrack: tivarse/desactivarse                 |
+| 🔧 Modular        | Cada función puede activarse/desactivarse                 |
 | 📁 Organizado     | Output estructurado por fecha/target                      |
-[30/3/26 22:11] HackCrack: | 🆓 Open Source    | Bash puro, sin dependencias complejas                     |
+| 🆓 Open Source    | Bash puro, sin dependencias complejas                     |
 
 ───
 
