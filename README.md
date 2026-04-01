@@ -1,4 +1,5 @@
 🚀 WebCopilot v2.3 
+<img width="1366" height="768" alt="1" src="https://github.com/user-attachments/assets/aa8dc9ce-deb9-47ee-8dc5-58ffbe69c9b9" />
 
 
 
