@@ -1,5 +1,7 @@
 🚀 WebCopilot v2.3 
 
+
+
 📋 ¿Qué es WebCopilot?
 
 WebCopilot v2.3 es un framework de reconocimiento web automatizado con IA integrada, diseñado para pentesters, bug bounty hunters y equipos de seguridad ofensiva.
